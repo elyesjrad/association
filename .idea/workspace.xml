@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc19f928-c531-45b8-9b9d-d509c1f8b568" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Resources/views/base1.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Resources/views/layout1.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/CodeNameOneBuildClient.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/JavaSE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/Versions.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/AddBenevole$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/AddBenevole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/AddBenevoleForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/AddBenevoleForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/AddTaskForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/AddTaskForm$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/AddTaskForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/HomeForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/ListBenevoleForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/ListTasksForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/LoginForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/LoginForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/LoginForm1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/LoginForm1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/LoginTaskForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/LoginTaskForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/MSUIKit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/ProfileForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/ProfileForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/RegisterForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/RegisterForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/SideMenuBaseForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/StatsForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/codename1/uikit/materialscreens/WalkthruForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/entities/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/entities/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/entities/association.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/entities/benevole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/gui/AddBenevoleForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/gui/AddBenevoleForm$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/gui/AddBenevoleForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/gui/AddTaskForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/gui/AddTaskForm$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/gui/AddTaskForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/gui/HomeForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/gui/ListBenevoleForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/gui/ListTasksForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/gui/LoginForm1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/gui/LoginForm1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/gui/LoginTaskForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/gui/LoginTaskForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/gui/RegisterForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/gui/RegisterForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/gui/RegisterTaskForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/gui/RegisterTaskForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/services/IntService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/services/ServiceBenevole$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/services/ServiceBenevole$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/services/ServiceBenevole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/services/ServiceTask$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/services/ServiceTask$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/services/ServiceTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/services/ServiceUser$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/services/ServiceUser$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/services/ServiceUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/com/mycompany/myapp/utils/Statics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/classes/theme.res" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/AddBenevole$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/AddBenevole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/AddBenevoleForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/AddBenevoleForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/AddTaskForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/AddTaskForm$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/AddTaskForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/HomeForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/ListBenevoleForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/ListTasksForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/LoginForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/LoginForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/LoginForm1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/LoginForm1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/LoginTaskForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/LoginTaskForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/MSUIKit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/ProfileForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/ProfileForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/RegisterForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/RegisterForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/SideMenuBaseForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/StatsForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/codename1/uikit/materialscreens/WalkthruForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/entities/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/entities/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/entities/association.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/entities/benevole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/gui/AddBenevoleForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/gui/AddBenevoleForm$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/gui/AddBenevoleForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/gui/AddTaskForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/gui/AddTaskForm$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/gui/AddTaskForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/gui/HomeForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/gui/ListBenevoleForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/gui/ListTasksForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/gui/LoginForm1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/gui/LoginForm1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/gui/LoginTaskForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/gui/LoginTaskForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/gui/RegisterForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/gui/RegisterForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/gui/RegisterTaskForm$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/gui/RegisterTaskForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/services/IntService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/services/ServiceBenevole$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/services/ServiceBenevole$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/services/ServiceBenevole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/services/ServiceTask$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/services/ServiceTask$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/services/ServiceTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/services/ServiceUser$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/services/ServiceUser$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/services/ServiceUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/build/tmp/com/mycompany/myapp/utils/Statics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/codenameone_settings.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/lib/CLDC11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/lib/CodenameOne.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/lib/CodenameOne_SRC.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/nbproject/nativej2me.res" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/nbproject/private/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/nbproject/private/private.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/nbproject/private/private.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/sendgrid-java-latest.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/codename1/uikit/materialscreens/LoginForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/codename1/uikit/materialscreens/LoginForm1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/codename1/uikit/materialscreens/MSUIKit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/codename1/uikit/materialscreens/ProfileForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/codename1/uikit/materialscreens/SideMenuBaseForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/codename1/uikit/materialscreens/StatsForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/codename1/uikit/materialscreens/WalkthruForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/mycompany/myapp/entities/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/mycompany/myapp/entities/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/mycompany/myapp/entities/association.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/mycompany/myapp/entities/benevole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/mycompany/myapp/gui/AddBenevoleForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/mycompany/myapp/gui/AddTaskForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/mycompany/myapp/gui/BaseForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/mycompany/myapp/gui/HomeForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/mycompany/myapp/gui/ListBenevoleForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/mycompany/myapp/gui/ListTasksForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/mycompany/myapp/gui/LoginTaskForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/mycompany/myapp/gui/RegisterForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/mycompany/myapp/services/IntService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/mycompany/myapp/services/ServiceBenevole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/mycompany/myapp/services/ServiceTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/mycompany/myapp/services/ServiceUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/com/mycompany/myapp/utils/Statics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bras_FortMobile/src/theme.res" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/AppKernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/AppKernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/association/edit.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/association/edit.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/association/new.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/views/association/new.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/benevole/edit.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/benevole/index.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/benevole/listB.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/benevole/listBexcel.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/benevole/new.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/benevole/show.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/views/layout.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config/routing.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/routing.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config/security.yml" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/security.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/console" beforeDir="false" afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AdminBundle/Resources/views/layout.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/AdminBundle/Resources/views/layout.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle.Entity.Benevole.orm.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle.Entity.Candidat.orm.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle.Entity.FosUser.orm.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle.Entity.Mail.orm.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle.Entity.Mobile.orm.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle.Entity.Task.orm.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Entity/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Resources/views/ChangePassword/change_password_content.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/views/ChangePassword/change_password_content.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Resources/views/Profile/edit_content.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/views/Profile/edit_content.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Resources/views/Profile/show_content.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/views/Profile/show_content.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Resources/views/Registration/register_content.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/views/Registration/register_content.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Resources/views/Security/login_content.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Resources/views/Security/login_content.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AssociationBundle/Controller/AssociationController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AssociationBundle/Controller/AssociationController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AssociationBundle/Resources/views/chart.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/src/AssociationBundle/Resources/views/chart.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BenevoleBundle.Entity.Benevole.orm.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BenevoleBundle/BenevoleBundle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BenevoleBundle/Controller/BenevoleController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BenevoleBundle/Controller/DefaultController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BenevoleBundle/Entity/Benevole.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BenevoleBundle/Form/BenevoleType.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BenevoleBundle/Repository/BenevoleRepository.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BenevoleBundle/Resources/config/doctrine/Benevole.orm.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BenevoleBundle/Resources/config/routing.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BenevoleBundle/Resources/config/routing/benevole.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BenevoleBundle/Resources/config/services.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BenevoleBundle/Resources/views/Default/index.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BenevoleBundle/Resources/views/chart.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BenevoleBundle/Tests/Controller/BenevoleControllerTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EspritApiBundle.Entity.Task.orm.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EspritApiBundle/Controller/DefaultController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EspritApiBundle/Entity/Task.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EspritApiBundle/EspritApiBundle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EspritApiBundle/Repository/TaskRepository.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EspritApiBundle/Resources/config/routing.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EspritApiBundle/Resources/config/services.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EspritApiBundle/Resources/views/Default/index.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MailBundle.Entity.mail.orm.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MailBundle/Controller/DefaultController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MailBundle/Controller/mailController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MailBundle/Entity/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MailBundle/Form/MailType.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MailBundle/MailBundle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MailBundle/Repository/mailRepository.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MailBundle/Resources/config/doctrine/mail.orm.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MailBundle/Resources/config/routing.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MailBundle/Resources/config/routing/mail.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MailBundle/Resources/config/services.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MailBundle/Resources/views/Default/index.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MailBundle/Resources/views/Default/mail.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MailBundle/Resources/views/Default/new.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MailBundle/Tests/Controller/mailControllerTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/images/LOGO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/chart/Chart.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/chart/Chart.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/chart/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/chart/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/chart/mukadi.chart.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/chart/mukadi.chart.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/web/favicon.ico" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="C:\composer\composer.phar" interpreterId="aef946fa-2312-4c4c-8a53-7e7f6a3fb845" />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle" />
+      <path value="$PROJECT_DIR$/vendor/ob/highcharts-bundle" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-json" />
+      <path value="$PROJECT_DIR$/vendor/cmen/google-charts-bundle" />
+      <path value="$PROJECT_DIR$/vendor/mukadi/chartjs-builder" />
+      <path value="$PROJECT_DIR$/vendor/mukadi/chartjs-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sabberworm/php-css-parser" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/vendor/excelwebzone/recaptcha-bundle" />
+      <path value="$PROJECT_DIR$/vendor/google/recaptcha" />
+      <path value="$PROJECT_DIR$/vendor/gregwar/captcha-bundle" />
+      <path value="$PROJECT_DIR$/vendor/gregwar/captcha" />
+      <path value="$PROJECT_DIR$/vendor/knplabs/knp-components" />
+      <path value="$PROJECT_DIR$/vendor/knplabs/knp-paginator-bundle" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1aG2iOZ3Qz4PmPRTTckj5vhMtiR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.lang.actions.generation.PhpGenerateFieldAccessorHandlerBase$MyMemberChooser.fluent.setters.last.selected" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Bras_Fort\src\BenevoleBundle\Resources\views" />
+      <recent name="C:\xampp\htdocs\Bras_Fort\web" />
+      <recent name="C:\xampp\htdocs\Bras_Fort\src\AppBundle\Entity" />
+      <recent name="C:\xampp\htdocs\Bras_Fort\src\EspritApiBundle\Repository" />
+      <recent name="C:\xampp\htdocs\Bras_Fort\src\EspritApiBundle\Entity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Bras_Fort\src\AssociationBundle\Resources\views" />
+      <recent name="C:\xampp\htdocs\Bras_Fort\src\AdminBundle\Resources\views" />
+      <recent name="C:\xampp\htdocs\Bras_Fort\src\MailBundle\Resources\views" />
+      <recent name="C:\xampp\htdocs\Bras_Fort\web\bundles" />
+      <recent name="C:\xampp\htdocs\Bras_Fort\app\Resources\views" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="s fos:user:create" />
+      <command value="s server:start" />
+      <command value="s server:run*" />
+      <command value="composer dump-autoload" />
+      <command value="s server:run" />
+      <command value="s assets:install" />
+      <command value="s generate:bundle" />
+      <command value="s doctrine:generate:crud" />
+      <command value="s doctrine:generate:entity" />
+      <command value="server:run" />
+      <command value="php bin/console doctrine:generate:entity" />
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.DefaultControllerTest.testIndex">
+    <configuration name="DefaultControllerTest.testIndex" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="AssociationBundle\Tests\Controller\DefaultControllerTest" file="$PROJECT_DIR$/tests/AssociationBundle/Controller/DefaultControllerTest.php" method="testIndex" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cache" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner directory="$PROJECT_DIR$/var/cache" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.DefaultControllerTest.testIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc19f928-c531-45b8-9b9d-d509c1f8b568" name="Default Changelist" comment="" />
+      <created>1586347736014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586347736014</updated>
+      <workItem from="1586347737216" duration="5037000" />
+      <workItem from="1586425279291" duration="6110000" />
+      <workItem from="1586498405406" duration="7630000" />
+      <workItem from="1586623981365" duration="595000" />
+      <workItem from="1586688009400" duration="6454000" />
+      <workItem from="1586799410066" duration="3971000" />
+      <workItem from="1586849098237" duration="12552000" />
+      <workItem from="1586938185053" duration="27983000" />
+      <workItem from="1587022279995" duration="35939000" />
+      <workItem from="1587074373035" duration="2463000" />
+      <workItem from="1587105474747" duration="8789000" />
+      <workItem from="1587553873412" duration="20197000" />
+      <workItem from="1587651220741" duration="385000" />
+      <workItem from="1587717328300" duration="1662000" />
+      <workItem from="1588180546648" duration="597000" />
+      <workItem from="1588774498112" duration="1416000" />
+      <workItem from="1589690131423" duration="8340000" />
+      <workItem from="1589735618662" duration="4364000" />
+      <workItem from="1589924890774" duration="1314000" />
+      <workItem from="1590094392019" duration="1243000" />
+      <workItem from="1590135484667" duration="4718000" />
+      <workItem from="1590142902624" duration="5730000" />
+      <workItem from="1590226344629" duration="9688000" />
+      <workItem from="1590391884286" duration="3753000" />
+      <workItem from="1590397453787" duration="3366000" />
+      <workItem from="1590402587488" duration="13023000" />
+      <workItem from="1590428091272" duration="8878000" />
+      <workItem from="1590481674819" duration="28383000" />
+      <workItem from="1590527218697" duration="3854000" />
+      <workItem from="1590564040586" duration="998000" />
+      <workItem from="1590566124896" duration="7094000" />
+      <workItem from="1590580726152" duration="14310000" />
+      <workItem from="1590648487738" duration="16258000" />
+      <workItem from="1590737100069" duration="12879000" />
+      <workItem from="1590835455777" duration="2518000" />
+      <workItem from="1590944623587" duration="1883000" />
+      <workItem from="1591002919344" duration="1481000" />
+      <workItem from="1591018223835" duration="3631000" />
+      <workItem from="1591079766486" duration="11128000" />
+      <workItem from="1591114295121" duration="1173000" />
+      <workItem from="1591116576665" duration="17521000" />
+      <workItem from="1591163572575" duration="11531000" />
+      <workItem from="1591224974813" duration="3231000" />
+      <workItem from="1591252621054" duration="16527000" />
+      <workItem from="1591344119701" duration="3083000" />
+      <workItem from="1591432207028" duration="1492000" />
+      <workItem from="1591534107201" duration="919000" />
+      <workItem from="1591608121206" duration="9106000" />
+      <workItem from="1591710938905" duration="7842000" />
+      <workItem from="1591852040474" duration="3356000" />
+      <workItem from="1591901957501" duration="1717000" />
+      <workItem from="1591937878204" duration="8039000" />
+      <workItem from="1591957475929" duration="1215000" />
+      <workItem from="1592047408143" duration="633000" />
+      <workItem from="1592117259896" duration="2105000" />
+      <workItem from="1592321146912" duration="4740000" />
+      <workItem from="1592386034528" duration="12057000" />
+      <workItem from="1592552641192" duration="205000" />
+      <workItem from="1594841065826" duration="3151000" />
+      <workItem from="1594890726813" duration="2707000" />
+      <workItem from="1594976780044" duration="6192000" />
+      <workItem from="1595079715975" duration="3530000" />
+      <workItem from="1595178494872" duration="2641000" />
+      <workItem from="1595193734987" duration="231000" />
+      <workItem from="1595194396527" duration="143000" />
+      <workItem from="1595194671772" duration="19000" />
+      <workItem from="1595194726077" duration="3780000" />
+      <workItem from="1595234851440" duration="2128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="19" key="#CLI_Interpreters" timestamp="1595179117604">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="19" key="#CLI_Interpreters/0.0.1366.728@0.0.1366.728" timestamp="1595179117604" />
+    <state x="499" y="18" key="#PHP" timestamp="1586972909082">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="18" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1586972909082" />
+    <state x="465" y="83" width="620" height="657" key="#cache" timestamp="1586972824374">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="83" width="620" height="657" key="#cache/0.0.1536.824@0.0.1536.824" timestamp="1586972824374" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586972913791">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586972913791" />
+    <state x="673" y="154" key="#com.intellij.ide.util.MemberChooser" timestamp="1590757974023">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="673" y="154" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590757974023" />
+    <state x="357" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590426787912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="357" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1590426787912" />
+    <state x="499" y="170" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1591121671680">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="170" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1591121671680" />
+    <state x="488" y="138" key="FileChooserDialogImpl" timestamp="1595194425328">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="138" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595194425328" />
+    <state x="549" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592469700104" />
+    <state width="1493" height="163" key="GridCell.Tab.0.bottom" timestamp="1591898710129">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="163" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591898710129" />
+    <state width="1493" height="163" key="GridCell.Tab.0.center" timestamp="1591898710129">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="163" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591898710129" />
+    <state width="1493" height="163" key="GridCell.Tab.0.left" timestamp="1591898710127">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="163" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591898710127" />
+    <state width="1493" height="163" key="GridCell.Tab.0.right" timestamp="1591898710129">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="163" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591898710129" />
+    <state x="144" y="247" key="NewPhpClassDialog" timestamp="1587075362992">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="144" y="247" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1587075362992" />
+    <state x="604" y="344" key="NewPhpFileDialog" timestamp="1590597132766">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="344" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1590597132766" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1590587030260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1590587030260" />
+    <state x="93" y="93" width="1054" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1594988226665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1054" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1594988226665" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1586972547652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1586972547652" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1595079728699">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595079728699" />
+    <state x="412" y="30" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586972125091">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="412" y="30" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1586972125091" />
+    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591631052891">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="580" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1591631052891" />
+    <state x="378" y="164" width="598" height="141" key="run.anything.popup" timestamp="1595178735697">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="164" width="598" height="141" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1595178735697" />
+    <state x="425" y="186" width="672" height="159" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590597879217" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590426875385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590426875385" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/CandidatBundle/Resources/views/layout.html.twig</url>
+          <line>121</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/BenevoleBundle/Controller/BenevoleController.php</url>
+          <line>133</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/AssociationBundle/Resources/views/chart.html.twig</url>
+          <line>25</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/AssociationBundle/Resources/views/chart.html.twig</url>
+          <line>16</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/tests/AssociationBundle/Controller/DefaultControllerTest.php</url>
+          <line>8</line>
+          <properties>
+            <option name="className" value="\AssociationBundle\Tests\Controller\DefaultControllerTest" />
+            <option name="methodName" value="testIndex" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

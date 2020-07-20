@@ -1,0 +1,38 @@
+s{% block container %}
+    <div class=" container">
+        <h5 Align="centre">Listes des notes</h5>
+        <table class="table table-data2">
+            <thead>
+            <tr>
+
+                <th>Id</th>
+                <th>Raisonsociale</th>
+                <th>Address</th>
+                <th>Telephone</th>
+                <th>Domaine</th>
+                <th>Gouvernorat</th>
+
+                <th></th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for note in notes %}
+                <tr class="tr-shadow">
+
+                    <td><a href="{{ path('note_show', { 'id': note.id }) }}">{{ note.id }}</a></td>
+                    <td>{{ note.raisonSociale }}</td>
+                    <td>{{ note.address }}</td>
+                    <td class="desc">{{ note.telephone }}</td>
+                    <td>{{ note.domaine }}</td>
+                    <td>{{ note.gouvernorat }}</td>
+
+
+                </tr>
+
+
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+{% endblock %}
